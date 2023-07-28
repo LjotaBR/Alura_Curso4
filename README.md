@@ -1,2 +1,2 @@
 # Alura_Curso3
-Estatística com R: testes de hipóteses
+Estatística com R: Correlação e Rgressão
